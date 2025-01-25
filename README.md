@@ -1,19 +1,7 @@
 # BiDirectional-Vehicle-Detection-and-Counter-YOLOv8
 
-This project utilizes the YOLOv8 pre-trained model to detect and count vehicles moving on a highway in two directions. By providing accurate vehicle data, this project enables a range of applications in traffic management, infrastructure design, and safety enhancement.
+This project utilizes the YOLOv8 pre-trained model to detect and count vehicles moving on a highway in two directions. Here is a relevant snapshot of model performance:
+![image](https://github.com/user-attachments/assets/32da11ff-dc6e-47d2-ac85-caa7b1d6824d)
 
-Applications:
-
-Transportation Engineering:
-Optimizing traffic flow on highways.
-Improving highway designs for better vehicle capacity and safety.
-
-Urban Planning:
-Assisting in the design of smart road infrastructure.
-Planning and implementing advanced traffic control systems.
-
-Environmental Monitoring:
-Estimating vehicle emissions based on traffic density.
-Supporting policies for reducing environmental impact.
-
-By capturing and analyzing vehicle data, this project serves as a valuable tool for building smarter, more efficient transportation systems and urban infrastructure.
+The tracking file was utilized from the GitHub repo: https://github.com/abewley/sort 
+This project was inspired by the Github: https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects
